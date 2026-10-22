@@ -1,0 +1,7 @@
+{
+  "name": "SN Downloader",
+  "description": "Shani Noumi Downloader - Premium 3D-inspired video and media downloader app with high-speed download engine, WhatsApp support (+923288501635), and complete native Android Kotlin Jetpack Compose project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
